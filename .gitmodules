@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = ./public
+	branch = git@github.com:RSCent/RSCent.github.io.git
